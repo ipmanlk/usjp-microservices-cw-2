@@ -1,4 +1,4 @@
-# Testing Assignment
+# Microservice Assignment
 
 - Module: ITS 4243 Microservices and Cloud Computing
 - Assignment: 2
