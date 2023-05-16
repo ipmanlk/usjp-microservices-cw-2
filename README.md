@@ -1,7 +1,6 @@
 # Microservice Assignment
 
 - Module: ITS 4243 Microservices and Cloud Computing
-- Assignment: 2
 - Name: Dissanayake D.A.N.P.
 - Index: ICT/18/813
 
